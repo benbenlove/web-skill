@@ -7,8 +7,9 @@
 ### 布局类
 
 1. [rem布局](https://github.com/randomlwh/f2e-rem)（移动端rem布局）
-2. [PC全屏翻页](https://github.com/momo1030/Plugins/tree/master/pc-responsive)（PC自适应全屏翻页，基于swiper2）
-3. [横屏布局的旋转解决方案](https://github.com/randomlwh/f2e-rem-rotate)（rem布局，解决横屏布局的旋转问题）
+2. [vw-rem布局](https://github.com/randomlwh/f2e-vw-rem)（移动端vw-rem布局）
+3. [PC全屏翻页](https://github.com/momo1030/Plugins/tree/master/pc-responsive)（PC自适应全屏翻页，基于swiper2）
+4. [横屏布局的旋转解决方案](https://github.com/randomlwh/f2e-rem-rotate)（rem布局，解决横屏布局的旋转问题）
 
 ### 视频类
 1. [移动端视频类video实现](https://github.com/randomlwh/netease-f2e-video)
