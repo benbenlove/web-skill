@@ -18,11 +18,6 @@
 ### 常用类库引用地址
 1. [常用类库引用地址](https://github.com/randomlwh/f2e-frames/blob/master/README.md)
 
-### 接口类
-
-1. [新闻客户端接口](http://doc.ws.netease.com/pages/viewpage.action?pageId=2886075)（网易新闻客户端接口）
-2. [微信授权和新闻客户端登录问题](./docs/weixinAndNewApp)
-
 ### 功能组件
 
 1. [图片序列帧](http://tgideas.github.io/motion/doc/data/component/mo.Film.html)（支持多图形式和雪碧图形式）
