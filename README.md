@@ -6,10 +6,9 @@
 
 ### 布局类
 
-1. [rem布局](https://github.com/randomlwh/f2e-rem)（移动端rem布局）
-2. [vw-rem布局](https://github.com/randomlwh/f2e-vw-rem)（移动端vw-rem布局）
-3. [PC全屏翻页](https://github.com/momo1030/Plugins/tree/master/pc-responsive)（PC自适应全屏翻页，基于swiper2）
-4. [横屏布局的旋转解决方案](https://github.com/randomlwh/f2e-rem-rotate)（rem布局，解决横屏布局的旋转问题）
+1. [vw-rem布局](https://github.com/randomlwh/f2e-vw-rem)（移动端vw-rem布局）
+2. [PC全屏翻页](https://github.com/momo1030/Plugins/tree/master/pc-responsive)（PC自适应全屏翻页，基于swiper2）
+3. [横屏布局的旋转解决方案](https://github.com/randomlwh/f2e-rem-rotate)（rem布局，解决横屏布局的旋转问题）
 
 ### 视频类
 1. [移动端视频类video实现](https://github.com/randomlwh/netease-f2e-video)
@@ -62,6 +61,3 @@
 1. [基于gulp的构建工具](https://github.com/rkweb/gulp-tool)（包括css、js合并压缩、图片压缩（支持jpg、png、gif压缩）、保存代码时浏览器自动刷新、sass编译、生成雪碧图、自动生成版本号等）
 
 2. [gulp开发打包工具](https://github.com/wbbhacker/f2e-gulp)
-
-### gitLab 使用指南
-1. [gitLab项目创建](./docs/gitLab/README.md)
